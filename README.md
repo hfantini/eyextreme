@@ -7,4 +7,4 @@ Date: 2011/09/01
 
 Eye Xtreme is a project developed for the image processing discipline in the computer science course. More later, this work would be subscribed in the 20º SIICUSP (international Symposium of scientific and technological initialization of USP) and it would gives me a certificate of scientific initialization.
 
-More details in: https://henriquefantini.com/en/portfolio/2
+More details in: https://henriquefantini.com/#/en/portfolio/2
